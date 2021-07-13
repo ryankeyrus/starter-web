@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 showing how to use git and work together
-Adding a line rebasing example
+Adding a line rebasing example, then more changes from my feature branch too.
 
 ## Introduction
 This is example to show different part of the git repo
