@@ -16,6 +16,7 @@ As stated aboe, the main purpose
 THis is a simple web project, dev can be on any server or environment
 
 ## How to Contribute
+Please fork this repository and then issue Pull Req for review
 
 ### Copyright
 
