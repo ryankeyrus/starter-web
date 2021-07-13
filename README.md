@@ -16,3 +16,7 @@ As stated aboe, the main purpose
 THis is a simple web project, dev can be on any server or environment
 
 ## How to Contribute
+
+### Copyright
+
+2021 Git.Training 
