@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Ryan Jaipersaud jaipersr@gmail.com
 
 # THANKS
 
